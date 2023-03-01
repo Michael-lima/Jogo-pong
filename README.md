@@ -5,6 +5,6 @@
 > Com o link abaixo te leva direto a página.
 
 ```
-<link> https://editor.p5js.org/michaelkuhnedelima/sketches/C-3PMocgb </link> 
+ https://editor.p5js.org/michaelkuhnedelima/sketches/C-3PMocgb 
  
 ```
